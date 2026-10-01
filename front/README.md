@@ -1,5 +1,4 @@
-
-# encript  MVP UI Flow Tree
+# KeyNest MVP UI Flow Tree
 
 The MVP should focus on one core workflow:
 
@@ -8,7 +7,7 @@ The MVP should focus on one core workflow:
 ## 1. Application flow tree
 
 ```text
-encript
+KeyNest
 ├── Public Area
 │   ├── Landing Page
 │   │   ├── Product explanation
@@ -658,3 +657,4 @@ Your MVP is complete when a user can:
 - Revoke the link
 - Receive an appropriate error for expired or revoked links
 
+Keep the first version narrow. Do not add team accounts, mobile apps, browser extensions, multiple recipients, or advanced key splitting until the basic encryption and handoff workflow works reliably.
